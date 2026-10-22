@@ -1,0 +1,20 @@
+/* Medartis elevation. Depth is expressed with hairline rules and flat black/white contrast, not
+   with shadows. Only two shadows exist: a barely-there lift for hovering cards, and a real one for
+   floating layers (dropdown menus, cookie bar, modal). Never use coloured or glowing shadows. */
+:root{
+  --shadow-none:none;
+  --shadow-hover:0 2px 8px rgba(0,0,0,.08);
+  --shadow-raised:0 4px 16px rgba(0,0,0,.10);
+  --shadow-overlay:0 16px 48px rgba(0,0,0,.20);
+  --shadow-inverse-hover:0 2px 12px rgba(0,0,0,.6);
+
+  /* Focus is a ring, never a shadow-blur */
+  --focus-ring:0 0 0 2px var(--medartis-white),0 0 0 4px var(--blue-600);
+  --focus-ring-inverse:0 0 0 2px var(--medartis-black),0 0 0 4px var(--sky-300);
+
+  /* Hairlines — the brand's real "elevation" device */
+  --hairline:1px solid var(--border-default);
+  --hairline-accent:1px solid var(--border-accent);
+  --hairline-strong:1px solid var(--border-strong);
+  --rule-thick:2px solid var(--medartis-black);
+}

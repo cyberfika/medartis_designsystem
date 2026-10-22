@@ -1,0 +1,29 @@
+/* Medartis spacing — 4px base. The deck's real measurements land on this scale:
+   the 26.67px slide margin ≈ --space-7, the 19px column gutter ≈ --space-5. */
+:root{
+  --space-0:0;
+  --space-1:2px;
+  --space-2:4px;
+  --space-3:8px;
+  --space-4:12px;
+  --space-5:16px;
+  --space-6:20px;
+  --space-7:24px;
+  --space-8:32px;
+  --space-9:40px;
+  --space-10:48px;
+  --space-11:64px;
+  --space-12:80px;
+  --space-13:96px;
+  --space-14:128px;
+  --space-15:160px;
+
+  /* Named rhythm */
+  --gap-inline:var(--space-3);      /* icon ↔ label */
+  --gap-stack:var(--space-5);       /* paragraph rhythm */
+  --gap-group:var(--space-8);       /* card ↔ card */
+  --gap-section:var(--space-13);    /* web section ↔ section */
+  --pad-control:var(--space-4) var(--space-6);
+  --pad-card:var(--space-8);
+  --pad-page-x:var(--space-8);
+}

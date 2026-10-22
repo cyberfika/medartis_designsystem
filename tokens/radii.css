@@ -1,0 +1,15 @@
+/* Medartis radii. The brand is square. Every rectangle in the corporate deck and on medartis.com is
+   a true 90° corner; the only round things are avatar/social discs (fully circular) and the pill
+   used for the search field. Do not invent 8px "soft" corners. */
+:root{
+  --radius-none:0;
+  --radius-hairline:1px;   /* optical softening on small chips only */
+  --radius-pill:999px;     /* search field, social discs, avatar crops */
+  --radius-circle:50%;
+
+  --radius-button:var(--radius-none);
+  --radius-card:var(--radius-none);
+  --radius-input:var(--radius-none);
+  --radius-image:var(--radius-none);
+  --radius-avatar:var(--radius-circle);
+}

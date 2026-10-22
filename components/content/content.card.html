@@ -1,0 +1,32 @@
+<!-- @dsCard group="Components" viewport="700x400" name="Content" subtitle="SectionHeading, NewsCard, MediaCard, ProductCard, StatBlock, Quote, Accordion, DataTable" -->
+<!DOCTYPE html><html><head><meta charset="utf-8">
+<link rel="stylesheet" href="../../styles.css">
+<script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+<script src="../../_ds_bundle.js"></script>
+<style>body{padding:20px;font:var(--type-body)}</style>
+</head><body><div id="root"></div>
+<script type="text/babel">
+const { SectionHeading, NewsCard, MediaCard, ProductCard, StatBlock, Quote, Accordion, DataTable } = window.MedartisDesignSystem_dbc0f7;
+const IM='../../assets/imagery/';
+function Card(){return <div style={{display:'flex',flexDirection:'column',gap:26}}>
+<SectionHeading eyebrow="Portfolio overview" title="Choose your Region of Interest" lead="Precision-engineered solutions for skull and extremity surgery."/>
+<div style={{display:'grid',gridTemplateColumns:'1fr 1fr 1fr',gap:20}}>
+  <NewsCard image={IM+'campaign-pointing.png'} date="10.06.2026" category="Company News" title="Medartis wins the Swiss Medtech Award 2026" teaser="The prize recognises outstanding achievements within the Swiss medical technology industry."/>
+  <MediaCard image={IM+'campaign-bionic-hands.png'} title="CMX Services" body="Order your custom implant, saw, or drill guide today."/>
+  <ProductCard region="Upper Extremities" image={IM+'campaign-arm.png'} name="Distal Radius and Distal Ulna System 2.5" meta="2.5 mm locking plates & screws"/>
+</div>
+<div style={{display:'grid',gridTemplateColumns:'repeat(4,1fr)',gap:20}}>
+  <StatBlock value="230" unit="MCHF" label="Group revenue"/>
+  <StatBlock value="1997" label="Founded in Basel"/>
+  <StatBlock value="14" label="Subsidiaries"/>
+  <StatBlock value="&gt;50" label="Distributor markets"/>
+</div>
+<Quote author="Peter Neuenschwander" role="Patient, Basel">Six weeks later I was back on my bike.</Quote>
+<div style={{display:'grid',gridTemplateColumns:'1fr 1fr',gap:28}}>
+<Accordion defaultOpen={0} items={[{title:'How do I order a CMX guide?',body:'Upload the DICOM data set through the CMX Portal; our engineers return a design proposal within five working days.'},{title:'Which sterilisation cycle applies?',body:'See the eIFU for the system in question.'}]}/>
+<DataTable dense columns={[{key:'ref',label:'Ref.'},{key:'sys',label:'System'},{key:'d',label:'Ø',align:'right'}]} rows={[{ref:'M-2101',sys:'Hallux 2.8',d:'2.8'},{ref:'M-3350',sys:'Calcaneus 3.5',d:'3.5'},{ref:'M-2530',sys:'Distal Radius 2.5',d:'2.5'}]}/>
+</div></div>}
+ReactDOM.createRoot(document.getElementById('root')).render(<Card/>);
+</script></body></html>

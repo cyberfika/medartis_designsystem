@@ -1,0 +1,125 @@
+/* Medartis colour system.
+   Source of truth: the corporate PowerPoint theme (uploads/Template Medartis.pptx › ppt/theme/theme1.xml)
+   and medartis.com. The brand is fundamentally monochrome — pure black and pure white carry ~95% of
+   every surface. Colour appears in single, small doses: a rule, a numeral, a state. */
+:root{
+  /* ---- Brand core ---- */
+  --medartis-black:#000000;      /* theme dk1 / tx1 — dominant brand surface */
+  --medartis-white:#FFFFFF;      /* theme lt1 / bg1 */
+  --medartis-graphite:#231F20;   /* wordmark ink in the supplied logo artwork */
+
+  /* ---- Neutral ramp (black → white, used for rules, wells, disabled states) ---- */
+  --grey-950:#0A0A0A;
+  --grey-900:#141414;
+  --grey-800:#232323;
+  --grey-700:#3C3C3C;
+  --grey-600:#585858;
+  --grey-500:#767676;
+  --grey-400:#9A9A9A;
+  --grey-300:#C4C4C4;
+  --grey-200:#DCDCDC;
+  --grey-150:#E8E8E8;            /* theme lt2 — the canonical light fill */
+  --grey-100:#F1F1F1;
+  --grey-050:#F8F8F8;
+
+  /* ---- Accent: Medartis Sky (theme accent1) ---- */
+  /* The one signature colour. Hairline rules, agenda numerals, subtitles on black, focus rings. */
+  --sky-100:#EAF3FC;
+  --sky-200:#D5E7F8;
+  --sky-300:#BBD7F3;             /* theme accent1 — THE accent */
+  --sky-400:#8FB9E4;
+  --sky-500:#6098D3;
+
+  /* ---- Secondary hues (theme accent2/4/5/6, dk2) — data + semantics only ---- */
+  --blue-600:#357ABE;            /* theme accent2 */
+  --teal-600:#358D94;            /* theme accent4 */
+  --crimson-600:#BD1041;         /* theme accent5 */
+  --green-600:#4EA72E;           /* theme accent6 */
+  --gold-500:#DEBE5C;            /* theme dk2 */
+
+  /* ---- Semantic: text ---- */
+  --text-primary:var(--medartis-black);
+  --text-secondary:var(--grey-600);
+  --text-muted:var(--grey-500);
+  --text-disabled:var(--grey-400);
+  --text-inverse:var(--medartis-white);
+  --text-inverse-secondary:rgba(255,255,255,.68);
+  --text-accent:var(--sky-300);          /* only legible on black — subtitles, kickers */
+  --text-accent-on-light:var(--blue-600);
+  --text-link:var(--medartis-black);
+  --text-link-hover:var(--blue-600);
+
+  /* ---- Semantic: surfaces ---- */
+  --surface-page:var(--medartis-white);
+  --surface-page-inverse:var(--medartis-black);
+  --surface-card:var(--medartis-white);
+  --surface-card-inverse:var(--grey-900);
+  --surface-well:var(--grey-150);
+  --surface-subtle:var(--grey-050);
+  --surface-accent-soft:var(--sky-100);
+  --surface-overlay:rgba(0,0,0,.72);
+  --surface-scrim:linear-gradient(180deg,rgba(0,0,0,0) 0%,rgba(0,0,0,.78) 100%);
+
+  /* ---- Semantic: borders ---- */
+  --border-default:var(--grey-200);
+  --border-strong:var(--medartis-black);
+  --border-inverse:rgba(255,255,255,.24);
+  --border-accent:var(--sky-300);        /* the hairline rule used across the deck */
+  --border-focus:var(--blue-600);
+
+  /* ---- Semantic: interactive ---- */
+  --action-primary-bg:var(--medartis-black);
+  --action-primary-fg:var(--medartis-white);
+  --action-primary-bg-hover:var(--grey-700);
+  --action-primary-bg-active:var(--grey-800);
+  --action-secondary-fg:var(--medartis-black);
+  --action-secondary-border:var(--medartis-black);
+  --action-secondary-bg-hover:var(--medartis-black);
+  --action-secondary-fg-hover:var(--medartis-white);
+  --action-inverse-bg:var(--medartis-white);
+  --action-inverse-fg:var(--medartis-black);
+  --action-disabled-bg:var(--grey-200);
+  --action-disabled-fg:var(--grey-400);
+
+  /* ---- Semantic: status ---- */
+  --status-success:var(--green-600);
+  --status-danger:var(--crimson-600);
+  --status-warning:var(--gold-500);
+  --status-info:var(--blue-600);
+  --status-success-soft:#EDF7E9;
+  --status-danger-soft:#FBEAEF;
+  --status-warning-soft:#FCF6E6;
+  --status-info-soft:var(--sky-100);
+
+  /* ---- Data visualisation order ---- */
+  --chart-1:var(--medartis-black);
+  --chart-2:var(--sky-300);
+  --chart-3:var(--blue-600);
+  --chart-4:var(--teal-600);
+  --chart-5:var(--gold-500);
+  --chart-6:var(--crimson-600);
+  --chart-7:var(--green-600);
+  --chart-grid:var(--grey-200);
+}
+
+/* Inverse (black) context — the brand's hero mode. Put this on any full-bleed black block. */
+.medartis-inverse,[data-theme="inverse"]{
+  --text-primary:var(--medartis-white);
+  --text-secondary:rgba(255,255,255,.68);
+  --text-muted:rgba(255,255,255,.5);
+  --text-link:var(--medartis-white);
+  --text-link-hover:var(--sky-300);
+  --surface-page:var(--medartis-black);
+  --surface-card:var(--grey-900);
+  --surface-well:var(--grey-900);
+  --border-default:rgba(255,255,255,.18);
+  --border-strong:var(--medartis-white);
+  --action-primary-bg:var(--medartis-white);
+  --action-primary-fg:var(--medartis-black);
+  --action-primary-bg-hover:var(--sky-300);
+  --action-primary-bg-active:var(--sky-400);
+  --action-secondary-fg:var(--medartis-white);
+  --action-secondary-border:var(--medartis-white);
+  --action-secondary-bg-hover:var(--medartis-white);
+  --action-secondary-fg-hover:var(--medartis-black);
+}

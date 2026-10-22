@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<!-- @template name="Medartis web page" description="medartis.com page shell: utility strip, mega-menu header, campaign hero, content sections, black footer." -->
+<helmet><script src="./ds-base.js"></script><style>body{margin:0;background:#fff}</style></helmet>
+<div style="font-family:'Roboto',Arial,sans-serif;color:#000">
+
+<x-import component-from-global-scope="MedartisDesignSystem_dbc0f7.UtilityBar" language="EN" hint-size="100%,34px"></x-import>
+
+<x-import component-from-global-scope="MedartisDesignSystem_dbc0f7.NavBar" active="Solutions" logo-src="../../assets/logo/medartis-wordmark-black.svg" hint-size="100%,88px"></x-import>
+
+<x-import component-from-global-scope="MedartisDesignSystem_dbc0f7.HeroSlider" height="{{ 560 }}" dc-props="{{ heroProps }}" hint-size="100%,560px"></x-import>
+
+<section style="padding:96px 40px">
+<div style="max-width:1440px;margin:0 auto">
+<div style="display:flex;align-items:center;gap:16px;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:#585858;margin-bottom:16px"><span style="width:32px;height:1px;background:#BBD7F3"></span>Portfolio overview</div>
+<h1 style="margin:0;font-family:'Old Standard TT',Georgia,serif;font-weight:400;font-size:51px;line-height:.9;letter-spacing:-.01em;text-wrap:pretty">Choose your Region of Interest</h1>
+<p style="margin:20px 0 0;max-width:52ch;font-weight:300;font-size:24px;line-height:1.3;color:#585858">Precision-engineered solutions for skull and extremity surgery, ensuring optimal patient care.</p>
+
+<div style="display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:40px;margin-top:48px">
+<a href="#" style="display:flex;flex-direction:column;text-decoration:none;color:#000;border:0;border-bottom:1px solid #DCDCDC;padding-bottom:24px">
+<div style="aspect-ratio:16/10;overflow:hidden;background:#E8E8E8;margin-bottom:20px"><img src="../../assets/imagery/campaign-arm.png" alt="" style="width:100%;height:100%;object-fit:cover;display:block"></div>
+<div style="display:flex;gap:12px;font-weight:300;font-size:12px;color:#767676;letter-spacing:.04em;margin-bottom:12px"><span>Upper Extremities</span></div>
+<h3 style="margin:0;font-family:'Old Standard TT',Georgia,serif;font-weight:400;font-size:24px;line-height:1.15;letter-spacing:-.01em">Wrist &amp; Forearm</h3>
+<p style="margin:12px 0 20px;font-weight:300;font-size:16px;line-height:1.65;color:#585858">Distal radius, distal ulna, arthrodesis and ulna-shortening systems in 2.5 and 2.8 mm.</p>
+<span style="margin-top:auto;align-self:flex-start;display:inline-flex;align-items:center;gap:8px;font-weight:500;font-size:14px;border-bottom:1px solid #BBD7F3;padding-bottom:2px">Read more <span>→</span></span>
+</a>
+<a href="#" style="display:flex;flex-direction:column;text-decoration:none;color:#000;border:0;border-bottom:1px solid #DCDCDC;padding-bottom:24px">
+<div style="aspect-ratio:16/10;overflow:hidden;background:#E8E8E8;margin-bottom:20px"><img src="../../assets/imagery/campaign-prosthetic-leg.png" alt="" style="width:100%;height:100%;object-fit:cover;display:block"></div>
+<div style="display:flex;gap:12px;font-weight:300;font-size:12px;color:#767676;letter-spacing:.04em;margin-bottom:12px"><span>Lower Extremities</span></div>
+<h3 style="margin:0;font-family:'Old Standard TT',Georgia,serif;font-weight:400;font-size:24px;line-height:1.15;letter-spacing:-.01em">Foot &amp; Ankle</h3>
+<p style="margin:12px 0 20px;font-weight:300;font-size:16px;line-height:1.65;color:#585858">Hallux, fore- and midfoot, calcaneus and ankle trauma systems from 2.0 to 3.5 mm.</p>
+<span style="margin-top:auto;align-self:flex-start;display:inline-flex;align-items:center;gap:8px;font-weight:500;font-size:14px;border-bottom:1px solid #BBD7F3;padding-bottom:2px">Read more <span>→</span></span>
+</a>
+<a href="#" style="display:flex;flex-direction:column;text-decoration:none;color:#000;border:0;border-bottom:1px solid #DCDCDC;padding-bottom:24px">
+<div style="aspect-ratio:16/10;overflow:hidden;background:#E8E8E8;margin-bottom:20px"><img src="../../assets/imagery/campaign-bionic-hands.png" alt="" style="width:100%;height:100%;object-fit:cover;display:block"></div>
+<div style="display:flex;gap:12px;font-weight:300;font-size:12px;color:#767676;letter-spacing:.04em;margin-bottom:12px"><span>Personalized</span></div>
+<h3 style="margin:0;font-family:'Old Standard TT',Georgia,serif;font-weight:400;font-size:24px;line-height:1.15;letter-spacing:-.01em">CMX Solutions</h3>
+<p style="margin:12px 0 20px;font-weight:300;font-size:16px;line-height:1.65;color:#585858">Patient-specific titanium implants, saw and drill guides for complex reconstruction.</p>
+<span style="margin-top:auto;align-self:flex-start;display:inline-flex;align-items:center;gap:8px;font-weight:500;font-size:14px;border-bottom:1px solid #BBD7F3;padding-bottom:2px">Read more <span>→</span></span>
+</a>
+</div>
+</div>
+</section>
+
+<section style="background:#000;color:#fff;padding:96px 40px">
+<div style="max-width:1440px;margin:0 auto;display:grid;grid-template-columns:1fr 420px;gap:64px;align-items:center">
+<div>
+<div style="display:flex;align-items:center;gap:16px;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:#BBD7F3;margin-bottom:16px"><span style="width:32px;height:1px;background:#BBD7F3"></span>Patient story</div>
+<blockquote style="margin:0;max-width:900px;font-family:'Old Standard TT',Georgia,serif;font-weight:400;font-size:32px;line-height:1.25;letter-spacing:-.01em;text-wrap:pretty">Six weeks after the plate went in, I was back on my bike.</blockquote>
+<figcaption style="margin-top:24px;padding-top:16px;border-top:1px solid #BBD7F3;font-weight:300;font-size:14px;line-height:1.5;color:rgba(255,255,255,.68)"><strong style="font-weight:500;color:#fff">Peter Neuenschwander</strong> — Patient, Basel</figcaption>
+</div>
+<img src="../../assets/imagery/campaign-handstand.jpg" alt="" style="width:100%;aspect-ratio:4/5;object-fit:cover">
+</div>
+</section>
+
+<x-import component-from-global-scope="MedartisDesignSystem_dbc0f7.SiteFooter" asset-base="../../assets/icons" logo-src="../../assets/logo/medartis-wordmark-white.svg" hint-size="100%,420px"></x-import>
+
+</div>
+
+</x-dc>
+<script type="text/x-dc" data-dc-script>
+class Component extends DCLogic {
+  renderVals() {
+    const IM = '../../assets/imagery/';
+    return {
+      heroProps: {
+        slides: [
+          { image: IM + 'campaign-hands.png', position: '72% center', headline: '#back2fun', body: 'Osteosynthesis that gives people their movement back.' },
+          { image: IM + 'campaign-sprinter.png', position: '62% center', headline: '#back2focus' },
+          { image: IM + 'campaign-handstand.jpg', position: '58% center', headline: '#back2joy' },
+          { image: IM + 'campaign-prosthetic-leg.png', position: '68% center', headline: '#back2play' },
+        ],
+      },
+    };
+  }
+}
+
+</script>
+</body>
+</html>

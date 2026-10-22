@@ -1,0 +1,32 @@
+/* Medartis layout.
+   Deck: 1280×720 canvas, 26.67px safe margin, 10 columns of 105.7px with 19px gutters
+   (measured from the PowerPoint master's user-drawn guides).
+   Web: 1440 max content width, 12 columns, 24px gutters. */
+:root{
+  --slide-w:1280px;
+  --slide-h:720px;
+  --slide-margin:26.67px;
+  --slide-columns:10; /* @kind other */
+  --slide-column-w:105.7px;
+  --slide-gutter:19px;
+  --slide-logo-w:111px;   /* wordmark in the top-right of every slide */
+  --slide-logo-h:19px;
+  --slide-logo-top:40px;
+  --slide-logo-right:26.67px;
+  --slide-footer-y:662px;
+
+  --web-max:1440px;
+  --web-content-max:1160px;
+  --web-columns:12; /* @kind other */
+  --web-gutter:24px;
+  --web-pad-x:40px;
+  --web-header-h:88px;
+  --web-prose-max:68ch;
+
+  --z-base:0; /* @kind other */
+  --z-sticky:100; /* @kind other */
+  --z-header:200; /* @kind other */
+  --z-dropdown:300; /* @kind other */
+  --z-overlay:400; /* @kind other */
+  --z-modal:500; /* @kind other */
+}

@@ -1,0 +1,23 @@
+/* Minimal element defaults so any consuming page inherits the brand voice without extra work. */
+*,*::before,*::after{box-sizing:border-box}
+body{margin:0;background:var(--surface-page);color:var(--text-primary);font:var(--type-body);-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+h1,h2,h3,h4{margin:0;font-family:var(--font-display);font-weight:var(--weight-regular);letter-spacing:var(--tracking-display);text-wrap:pretty}
+h1{font-size:var(--display-4);line-height:var(--leading-display)}
+h2{font-size:var(--display-6);line-height:var(--leading-tight)}
+h3{font-family:var(--font-sans);font-weight:var(--weight-light);font-size:var(--text-2xl);line-height:var(--leading-snug);letter-spacing:0}
+h4{font-family:var(--font-sans);font-weight:var(--weight-medium);font-size:var(--text-md);line-height:var(--leading-snug);letter-spacing:0}
+p{margin:0 0 var(--gap-stack);text-wrap:pretty}
+a{color:var(--text-link);text-decoration:none;border-bottom:1px solid var(--sky-300);transition:var(--transition-control)}
+a:hover{color:var(--text-link-hover);border-bottom-color:currentColor}
+a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible{outline:none;box-shadow:var(--focus-ring)}
+hr{border:0;border-top:var(--hairline-accent);margin:var(--space-8) 0}
+img,svg{max-width:100%}
+/* Prose lists opt in to the brand's dashed bullet. Bare ul/li stay unstyled so nav, footer and
+   breadcrumb lists are not decorated (a global ::before cannot be suppressed by inline styles). */
+ul{margin:0 0 var(--gap-stack);padding-left:1.15em}
+li{margin-bottom:var(--space-3)}
+.medartis-prose ul,ul[data-bullets]{list-style:none;padding-left:1.15em}
+.medartis-prose ul>li,ul[data-bullets]>li{position:relative}
+.medartis-prose ul>li::before,ul[data-bullets]>li::before{content:"⎼";position:absolute;left:-1.15em;color:var(--sky-300)}
+small{font:var(--type-note);color:var(--text-secondary)}
+::selection{background:var(--sky-300);color:var(--medartis-black)}

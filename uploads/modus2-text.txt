@@ -1,0 +1,191 @@
+
+===== ppt/slides/slide1.xml =====
+MODUS 2
+
+===== ppt/slides/slide2.xml =====
+Linha do tempo MODUS | 1997 | Fundação da  | Medartis |  AG por Thomas  | Straumann | , Willi  | Miesch |  e  | Jürg |   | Eichenberger | . Compra dos direitos do sistema  | MODUS |  da  | Elekta | Início das operações da  | Medartis | . Contratação dos primeiros funcionários. Lançamento do sistema MODUS em 4 versões com implantes de titânio para cirurgia CMF. | 2001 | Desenvolvimento do sistema RECO: primeiro com bloqueio angular, marcando uma inovação importante no portfólio inicial. | A |   | Medartis |   | participou no seu primeiro Congresso para apresentar a linha MODUS | 2020 | 2004 | 2025 | Desenvolvimento do bloqueio  | Trilock | . | MODUS 2 | 1998 | 2002
+
+===== ppt/slides/slide3.xml =====
+MODUS OPS 1.5 | MODUS 1 | MIDFACE | MANDIBLE | ORTHOGNATHICS | Sistemas complementares | MODUS 1.5 | MODUS  | Mesh | MODUS 1.5 SpeedTip | MODUS Trauma 2.0 | MODUS 2.0 | MODUS 0.9/1.2 | MODUS 2.0 | MODUS TriLock 2.0 / 2.3 / 2.5 | MODUS Trauma 2.5 | MODUS Reco 2.5 | MODUS Trauma 2.0 | MODUS 2.0 SpeedTip | MODUS Orthognathics 1.5/2.0 | MODUS OSS 2.0 | MODUS TBS | MODUS 90°  | Screwdriver | MODUS IMF 2.0
+
+===== ppt/slides/slide4.xml =====
+O  | que |   | mudou | ? | MODUS 1 | MODUS 2
+
+===== ppt/slides/slide5.xml =====
+Conceito de cores uniforme e fácil de usar para todos os sistemas | 
+Cobertura de uma ampla gama de indicações para o terço médio da face, mandíbula e ortognática | A variedade de recipientes estéreis ou implantes permite uma seleção individual de implantes | 
+Implantes e instrumentos recém-desenvolvidos juntamente com tecnologias comprovadas da Medartis | MODUS 2 | Mandible | Midface | Orthognathics | MODUS 2
+
+===== ppt/slides/slide6.xml =====
+HexaDrive | ® | Tecnologias | Superfície de contato azul para transmissão de torque
+Superfície de contato vermelha para retenção do parafuso
+ | Propriedades de  | auto-fixação |  entre parafuso e chave de fenda | 
+Aumento da transmissão de torque | SpeedTip | ® | Corte imediato do osso | Redução do torque de inserção graças à ponta poligonal | TriLock | ® | Geometría poligonal |  Eixo cônico | Ponta autoperfurante | Rosca precisa e afiada | Corte imediato do osso | Redução do torque de inserção graças à ponta poligonal | Ângulo variável ± 15°. | Sem zona de carga (verde)
+
+===== ppt/slides/slide7.xml =====
+Midface
+
+===== ppt/slides/slide8.xml =====
+Material | Distância do orifícios | Espessura da placa | Rigidez | Designs de placas:  | Mesh | MODUS | MODUS 2 Terço médio da face | Implantes | 0,25 mm  | 4 mm | Semi-rígida | Sim | Sim | 1,2 / 1,5 / 1,8 | 0,4 mm  | 4 mm | Semi-rígida | Sim | Sim | 1,2 / 1,5 / 1,8 | 0,6 mm  | 5 mm | Semi-rígida | Sim | Sim | 1,2 / 1,5 / 1,8 |      Titânio (ASTM F67)  |      Titânio (ASTM F67)  |      Titânio (ASTM F67)  | Dobrável | Cortável | Diâmetros dos parafusos
+
+===== ppt/slides/slide9.xml =====
+SpeedTip HD4  | Ø 1,5 mm | 4, 5, 6, 7, 8, 9 mm | HD4 Padrão  | Ø 1,5 mm | 3, 4, 5, 6, 7, 8, 9, 11 mm | HD4 Padrão  | Ø 1,2 mm | 3, 4, 5, 6, 7, 8, 9, 11 mm | Visão geral do sistema  | Midface | t = 0,5 | t = 0,6 / 0,7 | t = 1,0 | Vermelho 1,2 | Amarelo 1,8 | Malha e Placas do Assoalho Orbital | Parafusos | HD4 Padrão | Ø 1,8 mm | 3, 4, 5, 6, 7, 8, 9, 11 mm | Verde 1,5
+
+===== ppt/slides/slide10.xml =====
+Características gerais das placas | Algumas placas têm barras nas áreas da ponte | .... adaptar-se a todas as regiões anatômicas do terço médio da face em termos de espessura óssea, cobertura de partes moles e estabilidade. | Bordas arredondadas e superfície lisa para proteger os tecidos moles | Perfil baixo da placa (a partir de 0,5 mm de espessura)
+
+===== ppt/slides/slide11.xml =====
+O design da placa permite o rebaixamento da cabeça do parafuso | Características gerais da malha | Design de malha 3D | Bordas arredondadas e superfície lisa para proteger tecidos moles | Altura de perfil baixo: 0,25mm/0,4mm/0,6mm | Dois tamanhos de placa, cada um com três espessuras diferentes | Dois cantos arredondados adjacentes para tamanho 50 x 50 mm
+
+===== ppt/slides/slide12.xml =====
+Características gerais das placas do assoalho orbital | Linhas de corte  | pré-posicionadas |  permitem um corte sem pera ao longo da barra | Design de malha 3D | Barras estabilizadoras | Barras estabilizadoras | Altura de perfil baixo: 0,35 mm / 0,4 mm | Quatro diferentes geometrias de implantes
+
+===== ppt/slides/slide13.xml =====
+Visão geral dos parafusos | Parafuso Cortical 1.2 | Parafuso Cortical 1.5 | HexaDrive 4 | HexaDrive 4 | Parafuso Cortical 1.2 | Parafuso Cortical 1.5 | Parafuso cortical 1.8 | Parafuso SpeedTip 1.5 | Parafuso Cortical 1.8 | Parafuso  | SpeedTip |  1.5
+
+===== ppt/slides/slide14.xml =====
+Mandible
+
+===== ppt/slides/slide15.xml =====
+Visão geral das placas de sistema  | *Material  | semi-rígido |  é mais fácil de moldar do que material rígido com a mesma geometria de placa. | Placas TriLock Espessura da placa 1,3 mm,  | semi-rígida | * | Placas de  | fixaçãoEspessura |  da placa 1,0 mm,  | semi-rígida | * (azul), rígida (dourada)
+
+===== ppt/slides/slide16.xml =====
+Visão geral dos parafusos | *Material  | semi-rígido |  é mais fácil de moldar do que material rígido com a mesma geometria de placa. | Placas da Ponte  | TriLock | Espessura da placa 2,0 mm  | semi-rígida | * | Placas de mandíbula  | TriLock | Espessura da placa 1,5 mm  | semi-rígida | *
+
+===== ppt/slides/slide17.xml =====
+M2-4692 | M2-4658 | M2-4654 | M2-4656 | M2-4660 | M2-4662 | M2-4664 | Fraturas condilares  | Placa de côndilo TriLock | Espessura da placa: 1,3 mm | Semi-rígido | Placa de côndilo TriLock | Espessura da placa: 1,5 mm | Semi-rígido
+
+===== ppt/slides/slide18.xml =====
+M2-4894 | M2-4300 | M2-4852 | M2-4854 | Fraturas condilares  | Placas da mandíbula, retas | Espessura da placa: 1,0 mm | Rígido | Placas condilares | Espessura da placa: 1,0 mm | Semi-rígido
+
+===== ppt/slides/slide19.xml =====
+M2-4884 | M2-4300 / M2-4384 | M2-4886 | M2-4300 | M2-4882 | M2-4884 | Fraturas no corpo: fraturas simples | Placas da mandíbula, retas | Espessura da placa: 1,0 mm  | Rígido | Placas de compressão de rede | Espessura da placa: 1,0 mm | Semi-rígido
+
+===== ppt/slides/slide20.xml =====
+Fraturas no corpo: fraturas cominutas  | Grade Mediana TriLock | Placas  | Paramedianas | , Grade | Espessura da placa: 1,3 mm | Semi-rígida | Grade Mediana | Placas  | Paramedianas | , Grade | Espessura da placa: 1,0 mm | Semi-rígida | M2-4621 | M2-4613 | M2-4829
+
+===== ppt/slides/slide21.xml =====
+Fraturas no corpo: fraturas cominutas  | Placas TriLock, anatômicas | Espessura da placa: 1,5 mm | Semi-rígido
+
+===== ppt/slides/slide22.xml =====
+Fraturas de ramo e ângulo  | Placas TriLock, | Anatômicas | Espessura da placa: 1,5 mm | Semi-rígida | Placas do Ângulo da Mandíbula TriLock, Grade | Espessura da placa: 1,3 mm | Semi-rígida | M2-4638 (direita) / M2-4637 (esquerda) | M2-4652 (direita) / M2-4651 (esquerda) | M2-4618 (direita) / M2-4617 (esquerda)
+
+===== ppt/slides/slide23.xml =====
+Fraturas de ramo e ângulo  | Placas do ângulo da mandíbula, grade | Espessura da placa: 1,0 mm | Semi-rígido | Placas da mandíbula, retas | Espessura da placa: 1,0 mm | Rígido | M2-4856 (direita) / M2-4843 (esquerda) | M2-4848 (direita) / M2-4847 (esquerda) | M2-4324 / M2-4384
+
+===== ppt/slides/slide24.xml =====
+Fraturas atróficas da mandíbula | Placas  | TriLock,Anatomica | Espessura da placa: 1,5 mm | Semi-rígido | Placas TriLock  | Pencilbone | , Grade | Espessura da placa: 1,3 mm | Semi-rígido
+
+===== ppt/slides/slide25.xml =====
+Reconstrução  | Placas TriLock, anatômicas | Espessura da placa: 1,5 mm | Semi-rígido
+
+===== ppt/slides/slide26.xml =====
+Reconstrução  | Placas TriLock, Grade | Espessura da placa: 1,3 mm | Semi-rígido | Placas da mandíbula, retas | Espessura da placa: 1,0 mm | Rígido
+
+===== ppt/slides/slide27.xml =====
+Ponte de um defeito ósseo  | Placas da Ponte TriLock | Espessura da placa: 2,0 mm | Semi-rígido
+
+===== ppt/slides/slide28.xml =====
+Ponte de um defeito ósseo  | Placas da Ponte TriLock | Espessura da placa: 2,0 mm | Semi-rígido
+
+===== ppt/slides/slide29.xml =====
+Placas da Ponte TriLock | Defeitos centrais e duplamente laterais | Defeitos laterais/ | hemimandibulares | Adaptador C para placas de ponte | Prótese temporomandibular temporária com elemento transportador
+
+===== ppt/slides/slide30.xml =====
+Placas de mandíbula TriLock | MODUS | MODUS 2 Mandíbula | Implantes | Placas de  | cóndilos |  TriLock | Placas TriLock,  | rectas | Placas de  | ángulo |  de mandíbula TriLock | Placas de mandíbula TriLock, anatómicas | Placas de  | rejilla |  TriLock
+
+===== ppt/slides/slide31.xml =====
+Placas de mandíbula TriLock | MODUS | MODUS 2 Mandíbula | Implantes | Placas  | cóndilas | Placas de  | rejilla | Placas de compresión  | de rejilla | Placas  | Rectas
+
+===== ppt/slides/slide32.xml =====
+Características da placa | Furos TriLock em ambos os lados* | Adaptável |   | na |  região do ramo | Estrutura da grade | Ajuste anatômico | v
+
+===== ppt/slides/slide33.xml =====
+Novas placas de ponte em comparação com MODUS 2.5 Reco | Círculos: 128589 | F | máx. | : 323 N | Círculos: 176407 | F | máx. | : 649 N | Teste cíclico com força constantemente crescente até a falha. A nova placa de ponte possui melhor estabilidade (resistência à fadiga) com um perfil de placa menor e titânio. Mais fácil de moldar.
+
+===== ppt/slides/slide34.xml =====
+TriLock em ambos  | os lados | É necessário menos dobramento da placa*. | Estrutura em grade | Menos tensão do que a placa convencional. Estabilidade aumentada apesar da altura geral do perfil mais baixa*. | Características e benefícios das placas TriLock ponte | Ajuste anatômico* | É necessário menos dobramento da placa*. | Seção ramificada adaptável | É necessário menos dobramento da placa*. | 1 | 2 | 3 | 4 | Características | Benefícios
+
+===== ppt/slides/slide35.xml =====
+Placas condilar (Com e sem bloqueio)  | Bloqueada | Sem bloqueio
+
+===== ppt/slides/slide36.xml =====
+Visão geral dos parafusos | Parafuso Cortical 2.0 | Parafuso Cortical 2.3 | Parafuso  | SpeedTip |  2.0 | Parafusos Cortical 2.0 | Parafusos Cortical 2.3 | Parafusos SpeedTip 2.0
+
+===== ppt/slides/slide37.xml =====
+Visão geral dos parafusos | Parafuso Trilock 2.0 | HexaDrive 6 | HexaDrive 6 | HexaDrive 6 | Parafusos TriLock 2.0 | Parafusos TriLock 2.3 | Parafusos TriLock 2.5 | Parafusos TriLock SpeedTip 2,0 | Parafuso Trilock 2.3 | Parafuso Trilock 2.5 | Parafuso Trilock  | SpeedTip |  2.0
+
+===== ppt/slides/slide38.xml =====
+TriLock SpeedTip |  Três tecnologias | TriLock  | SpeedTip | HexaDrive
+
+===== ppt/slides/slide39.xml =====
+Ortognática
+
+===== ppt/slides/slide40.xml =====
+Histórico das Placas L e Z | O desenho da placa das placas L e Z foi desenvolvido com base em dados de CT clínico.
+
+===== ppt/slides/slide41.xml =====
+Histórico das Placas L e Z  | O design anatômico da placa reduz a moldagem intraoperatória da placa.
+
+===== ppt/slides/slide42.xml =====
+Estudo de elementos Finitos 
+
+===== ppt/slides/slide43.xml =====
+Estudo de elementos Finitos  | Furos próximos a osteotomia reforçados
+
+===== ppt/slides/slide44.xml =====
+Visão geral do sistema  | Placas padrão de 0,7 mm no meio da face do terço central
+
+===== ppt/slides/slide45.xml =====
+Marcação à laser nas barras da placa | Pode servir como um guia de orientação  | ao moldar as placas | Aumentos pequenos nos tamanhos da placa | Permite a fixação mais estreita à osteotomia | Design anatômico da placa, com base em dados clínicos CT | É necessário menos moldagem da placa | 1 | 2 | 3 | Características | Benefícios | Orifícios de parafuso reforçados perto da barra  | Melhora a estabilidade da placa* | 4 | Propriedades e Benefícios das Placas L e Z para Ortognática | *Em comparação com orifícios de parafuso que não são reforçados
+
+===== ppt/slides/slide46.xml =====
+Visão geral do sistema  | Placas pré-fabricadas de 0,7 mm Terço da face central
+
+===== ppt/slides/slide47.xml =====
+Visão geral do sistema  | Placas de osteotomia sagital | 0,7 mm | M2-4047 | Placas de osteotomia sagital | 0,8 mm | Placas de osteotomia sagital | 0,9 mm | Placas de osteotomia sagital | 1,0 mm | M2-4048 | M2-4049 | M2-4050 | M2-4051 | M2-4052 | M2-4061 | M2-4063 | M2-4066 | M2-4064 | M2-4065 | M2-4062
+
+===== ppt/slides/slide48.xml =====
+Visão geral do sistema  | Placas de Ramo TriLock | M2-4054 | M2-4053 | M2-4056 | M2-4055 | M2-4058 | M2-4057
+
+===== ppt/slides/slide49.xml =====
+Visão geral do sistema  | Placas do queixo | 0,7 mm | M2-4047 | Placas de  | queixo,Pré | -fabricado (rígido) | 0,8 mm | MandíbulaTabuleiros |  Padrão | 0,9 mm | M2-4048 | M2-4049 | M2-4050
+
+===== ppt/slides/slide50.xml =====
+Placas ortognáticas padrão | Placas ortognáticas padrão para osteossíntese em osteotomias com  | LeFort |  I, II e III | Placas retas | Placas Y | Placa de grade
+
+===== ppt/slides/slide51.xml =====
+Barras deslizantes | Barra deslizante para ajuste intraoperatório de oclusão | Disponível em Ø 2.0 e 2.3  | mmIMPORTANTE | : A barra deslizante deve ser removida depois que a placa é consertada.
+
+===== ppt/slides/slide52.xml =====
+Visão geral dos parafusos | Parafuso Cortical 1.2 | HexaDrive 4 | HexaDrive 4 | HexaDrive 4 | Parafusos Cortical 1.2 | Parafusos Cortical 1,5 | Parafusos Cortical 1.8 | Parafusos SpeedTip 1.5 | Parafuso Cortical 1.5 | Parafuso Cortical 1.8 | Parafuso  | SpeedTip |  1.5
+
+===== ppt/slides/slide53.xml =====
+Visão geral dos parafusos | Hexa Drive 6 | Hexa Drive 6 | Hexa Drive 6 | Hexa Drive 6 | Parafusos Corticais 2.0 | Parafusos Corticais 2.3 | Parafusos SpeedTip 2.0 | Parafusos TriLock 2.0
+
+===== ppt/slides/slide54.xml =====
+Inovação em Parafusos Corticais: Eixo cônico do parafuso  | O eixo afilado do parafuso reduz o torque de inserção na crosta homogênea, permitindo que a broca de diâmetro seja usada para todos os comprimentos do parafuso. | Eixo cônico
+
+===== ppt/slides/slide55.xml =====
+Inovação em Parafusos Corticais: Extensão rosqueada | A extensão roscada sob a qual a cabeça do parafuso está localizada permite um torque de aperto maior e, assim, reduz o risco de aperto excessivo no osso fino. | Osso | Placa | Rosca na cabeça do parafuso | Parafusar aproximadamente  | 1,2 +80% (0,06  | Nm | ) | Parafusar aproximadamente  | 1,5 + 60% (0,08  | Nm | ) | Parafusar aproximadamente  | 1,8 +15 vezes (0,11  | Nm | ) | Maior torque
+
+===== ppt/slides/slide56.xml =====
+Sistemas  | complementares | Chave 90°e Conjunto transbucal
+
+===== ppt/slides/slide57.xml =====
+Principais Usos | A chave de fenda de 90° é usada principalmente em combinação com os seguintes sistemas: | 1,2 | 1,5 | 1,8 | 2,3 | 2,0 | 2,5 | Compatibilidade | MODUS 2 Mandíbula | MODUS 2 Ortognático | A chave de fenda inclinada é compatível com os seguintes tamanhos de parafuso:
+
+===== ppt/slides/slide58.xml =====
+Módulo de armazenamento removível para brocas e pontas de chaves
+
+===== ppt/slides/slide59.xml =====
+Multifuncional | Pode ser usado para furar e inserir parafusos | Garfo de suporte de parafuso removível | Segura a placa e os parafusos na posição  | durante a inserção do parafuso | Características e benefícios  | Ángulo de 90° | Para inserção por parafuso na mandíbula posterior | 1 | 2 | 3 | Características | Benefícios | Drill | Destornillador
+
+===== ppt/slides/slide60.xml =====
+Pode ser desmontado em três componentes | Limpeza e esterilização fáceis | Solução de armazenamento transparente | Uso rápido e flexível | Características e benefícios  | Altura do perfil reduzida em comparação com | com |  a velha chave de fenda de 90° | Maior liberdade de circulação | 4 | 5 | 6 | Características | Benefícios | Nó limitador de torque | Protege o interruptor de sobrecarga | 7
+
+===== ppt/slides/slide61.xml =====
+Principais usos | 2,3 | 2,0 | 2,5 | Ele é usado principalmente em combinação com os seguintes sistemas: | MODUS 2 Mandíbula | MODUS 2 Ortognático | Acesso  | transoral |  para osteossíntese no ângulo da mandíbula, ramo ascendente e côndilo | Remoção  | transoral |  de parafusos | O conjunto MODUS 2 Transbucal é compatível com os seguintes tamanhos de parafuso: | Áreas de uso:
+
+===== ppt/slides/slide62.xml =====
+
